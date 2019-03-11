@@ -21,7 +21,7 @@ h1 {
   margin-bottom: 30px;
   letter-spacing: 1px;
   text-transform: uppercase;
-  height: 50px;
+  max-height: 50px;
 }
 #tribute-info {
   margin-bottom: 50px;
