@@ -14,15 +14,6 @@ body {
   align-items: center;
  }
 #title {
-  display: flex;
-  flex-direction: column;
-  padding: 2em;
-  margin: 3em 0;
-  max-width: 50em;
-  justify-content: center;
-  align-items: center;
-}
-h1 {
   color: rgb(200, 25, 25);
   border-bottom: 3px solid rgb(200, 25, 25);
   padding-bottom: 0px;
