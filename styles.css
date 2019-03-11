@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(150, 180, 230);
+  margin: 0px 30px 0px 30px;
+}
+
+
+#main {
+   color: black;
+
+}
+#title {
+  color: red;
+}
+#headings {
+  color: red;
+ }
+p {
+  color: black;
+}
+#img-div {
+align-items: center;
+width: 50%;
+text-align: center;
+}
+#image {
+ }
