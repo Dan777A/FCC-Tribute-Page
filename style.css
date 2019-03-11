@@ -13,7 +13,7 @@ body {
   justify-content: center;
   align-items: center;
  }
-#title {
+h1 {
   color: rgb(200, 25, 25);
   border-bottom: 3px solid rgb(200, 25, 25);
   padding-bottom: 0px;
