@@ -22,8 +22,7 @@ body {
   align-items: center;
   color: rgb(200, 25, 25);
   border-bottom: 3px solid rgb(200, 25, 25);
-  padding-bottom: 0px;
-  margin-bottom: 30px;
+  margin: 3em, auto, 30px, auto;
   letter-spacing: 1px;
   font-size: 1.5em;
   text-transform: uppercase;
