@@ -16,12 +16,13 @@ body {
  }
 h1 {
   color: rgb(200, 25, 25);
-  text-decoration: underline;
-  padding-bottom: 5px;
+    padding-bottom: 5px;
   margin-bottom: 30px;
   letter-spacing: 1px;
   text-transform: uppercase;
   font-size: 1.5em;
+  align-items: bottom;
+  bottom-border: 2px solid rgb(200, 25, 25);
 }
 #tribute-info {
   margin-bottom: 50px;
