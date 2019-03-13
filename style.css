@@ -5,8 +5,7 @@ body {
 header {
    font-family: 'Roboto', sans-serif;
   font-size: 0.5em;
-  display: flex;
-  flex-direction: column;  
+  display: grid;
   color: rgb(200, 25, 25);
 }
 #main {
